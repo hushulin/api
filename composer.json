@@ -1,0 +1,12 @@
+{
+    "name": "hushulin/api",
+    "description": "This is an api for Laravel Auto",
+    "authors": [
+        {
+            "name": "hushulin",
+            "email": "hushulin12321@126.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable"
+}
